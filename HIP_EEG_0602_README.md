@@ -122,12 +122,10 @@ artifacts propagating to the frontal electrode. The Pz-Oz channel showed
 substantially lower amplitude, as expected given its greater distance
 from the eyes.
 <img width="468" height="388" alt="image" src="https://github.com/user-attachments/assets/77315454-677c-47e9-b905-d1f3a78a6ee6" />
-Time Series Plot — Before Filtering (Raw EEG, Wake
-epoch, SC4001, 51240–51300
-s)
+
 
 ![Figure](media/image1.png)
-
+Time Series Plot — Before Filtering (Raw EEG, Wake epoch, SC4001, 51240–51300s)
 ## 3.3 Bandpass Filtering
 
 An IIR Butterworth bandpass filter (0.5–45 Hz) was applied to remove DC

@@ -126,7 +126,6 @@ from the eyes.
 
 ![Figure](media/image1.png)
 
-
 Time Series Plot — Before Filtering (Raw EEG, Wake epoch, SC4001, 51240–51300s)
 ## 3.3 Bandpass Filtering
 
@@ -158,18 +157,17 @@ Artifact Subspace Reconstruction (ASR).
 Wake epoch, SC4001, 51240–51300
 s)*
 
-![Figure](media/image2.png)
+<img width="468" height="388" alt="image" src="https://github.com/user-attachments/assets/ef8b28dc-733a-4697-8930-c392c1459885" />
+
 
 *📌 Insert Figure: Spectrum Plot — Before vs After PSD comparison*
 
 *Before*
-
-
-
-![Figure](media/image3.png)
+<img width="343" height="284" alt="image" src="https://github.com/user-attachments/assets/3c8933ba-af8d-48fb-81b8-3b242b4b2835" />
 
 *After PSD*
 
+<img width="343" height="284" alt="image" src="https://github.com/user-attachments/assets/09d08f2f-6cc9-4707-b5b7-b546d5fdef4a" />
 
 
 ![Figure](media/image4.png)

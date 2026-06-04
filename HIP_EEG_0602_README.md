@@ -264,12 +264,14 @@ power.
 *📌 Insert Figure: Spectrum Plot — SC4001 full-night average PSD (Fpz-Cz
 and Pz-Oz)*
 
-![Figure](media/image7.png)
+<img width="368" height="306" alt="image" src="https://github.com/user-attachments/assets/4bccd53b-8421-4576-a856-8bed7f4e149b" />
+
 
 *📌 Insert Figure: Spectrum Plot — SC4002 full-night average PSD (Fpz-Cz
 and Pz-Oz)*
 
-![Figure](media/image8.png)
+<img width="426" height="353" alt="image" src="https://github.com/user-attachments/assets/e3b1e48a-8998-4afa-ab62-31b5be6bdbc1" />
+
 
 ## 6.3 Inter-Night Comparison (SC4001 vs SC4002)
 

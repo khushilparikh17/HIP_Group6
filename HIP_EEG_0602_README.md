@@ -121,10 +121,10 @@ The raw Fpz-Cz signal displayed multiple large-amplitude deflections
 artifacts propagating to the frontal electrode. The Pz-Oz channel showed
 substantially lower amplitude, as expected given its greater distance
 from the eyes.
-
-*📌 Insert Figure: Time Series Plot — Before Filtering (Raw EEG, Wake
+<img width="468" height="388" alt="image" src="https://github.com/user-attachments/assets/77315454-677c-47e9-b905-d1f3a78a6ee6" />
+Time Series Plot — Before Filtering (Raw EEG, Wake
 epoch, SC4001, 51240–51300
-s)*
+s)
 
 ![Figure](media/image1.png)
 

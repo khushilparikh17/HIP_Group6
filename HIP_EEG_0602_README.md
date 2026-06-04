@@ -125,6 +125,8 @@ from the eyes.
 
 
 ![Figure](media/image1.png)
+
+
 Time Series Plot — Before Filtering (Raw EEG, Wake epoch, SC4001, 51240–51300s)
 ## 3.3 Bandpass Filtering
 

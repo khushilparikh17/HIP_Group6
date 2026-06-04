@@ -1,4 +1,4 @@
-Human Information Processing
+Human Information Processing Team 6
 
 **EEG Sleep Signal Analysis**
 

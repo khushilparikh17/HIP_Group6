@@ -1,12 +1,16 @@
 Human Information Processing Team 6
 
+Prof. Chun-Hsiang Michael Chuang
+
 **EEG Sleep Signal Analysis**
 
 Using NeuroPype Pipeline Designer 2024.1.0
 
 *Dataset: Sleep-EDF Database (PhysioNet) — SC4001E0 & SC4002E0*
 
-Prof. Chun-Hsiang Michael Chuang
+https://physionet.org/content/sleep-edfx/1.0.0/
+
+Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220. RRID:SCR_007345.
 
 # 1. Introduction
 

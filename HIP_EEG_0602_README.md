@@ -162,11 +162,10 @@ s)*
 
 *📌 Insert Figure: Spectrum Plot — Before vs After PSD comparison*
 
-*Before*
+*Before*<br>
 <img width="343" height="284" alt="image" src="https://github.com/user-attachments/assets/3c8933ba-af8d-48fb-81b8-3b242b4b2835" />
 
-*After PSD*
-
+*After PSD*<br>
 <img width="343" height="284" alt="image" src="https://github.com/user-attachments/assets/09d08f2f-6cc9-4707-b5b7-b546d5fdef4a" />
 
 

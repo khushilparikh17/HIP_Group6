@@ -12,8 +12,8 @@ Prof. Chun-Hsiang Michael Chuang
 
 ## 1.1 Project Title
 
-EEG-Based Sleep Stage Characterisation Using Spectral Power Analysis: A
-NeuroPype Pipeline Approach
+**EEG-Based Sleep Stage Characterisation Using Spectral Power Analysis: A
+NeuroPype Pipeline Approach**
 
 ## 1.2 Background and Motivation
 

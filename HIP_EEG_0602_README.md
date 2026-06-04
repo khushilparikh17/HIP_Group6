@@ -120,11 +120,8 @@ The raw Fpz-Cz signal displayed multiple large-amplitude deflections
 (estimated ±200–400 μV), consistent with electrooculographic (EOG)
 artifacts propagating to the frontal electrode. The Pz-Oz channel showed
 substantially lower amplitude, as expected given its greater distance
-from the eyes.
+from the eyes.<br>
 <img width="468" height="388" alt="image" src="https://github.com/user-attachments/assets/77315454-677c-47e9-b905-d1f3a78a6ee6" />
-
-
-![Figure](media/image1.png)
 
 Time Series Plot — Before Filtering (Raw EEG, Wake epoch, SC4001, 51240–51300s)
 ## 3.3 Bandpass Filtering
@@ -167,9 +164,6 @@ s)*
 
 *After PSD*<br>
 <img width="343" height="284" alt="image" src="https://github.com/user-attachments/assets/09d08f2f-6cc9-4707-b5b7-b546d5fdef4a" />
-
-
-![Figure](media/image4.png)
 
 # 4. NeuroPype Pipeline
 
@@ -239,12 +233,14 @@ NeuroPype pipeline execution)*
 *📌 Insert Figure: Bar Plot — Deep Sleep epoch (SC4001, 583 min, Delta
 ~96%)*
 
-![Figure](media/image5.png)
+<img width="328" height="274" alt="image" src="https://github.com/user-attachments/assets/e8b925cf-03f1-4ef3-8b54-c663c4a7dc0b" />
+
 
 *📌 Insert Figure: Bar Plot — Light/REM candidate epoch (SC4001, 509
 min, Theta ~58%)*
 
-![Figure](media/image6.png)
+<img width="330" height="274" alt="image" src="https://github.com/user-attachments/assets/b71292ee-eb48-4757-8f1a-83b8d2e75030" />
+
 
 | **Epoch**            | **Delta %** | **Theta %** | **Alpha %** | **Interpretation**             |
 |----------------------|-------------|-------------|-------------|--------------------------------|

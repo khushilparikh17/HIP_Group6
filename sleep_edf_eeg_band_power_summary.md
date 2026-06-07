@@ -4,7 +4,8 @@
 
 ## 1. NeuroPype Processing Overview
 
-![NeuroPype processing overview](image.png)
+<img width="892" height="853" alt="image" src="https://github.com/user-attachments/assets/be813190-2bbd-4cd3-82ef-c724aaa6d47b" />
+
 
 This project used **NeuroPype** to process Sleep-EDF EEG and hypnogram data. The PSG `.edf` files were imported into NeuroPype, and the EEG data were replayed as a simulated real-time stream using the **Stream Data** function. This was necessary because the original EDF recordings are offline files, while the analysis pipeline was designed to observe dynamic band-power changes over time.
 
@@ -67,9 +68,10 @@ The cleaned and averaged results showed that the EEG band power differed across 
 | N3/4 | 67.35 | 66.85 | 63.86 | 60.29 |
 | REM | 62.55 | 63.43 | 59.75 | 56.02 |
 
-![Chart preview](Chart.js-preview.png)
+<img width="1172" height="393" alt="image" src="https://github.com/user-attachments/assets/3cd56818-e407-4f1c-bc2b-40e5f77ece65" />
 
-![Average band power by sleep stage for each subject](average_bandpower_by_stage_each_subject_fixed.png)
+<img width="2048" height="2083" alt="image" src="https://github.com/user-attachments/assets/d73f115c-066a-4083-a8aa-996804433d3b" />
+
 
 These results show that **N3/4 had the highest delta and theta power**, which is consistent with the expected characteristics of deep sleep and slow-wave activity. N1 showed the lowest overall band power, which is also reasonable because N1 is a lighter and more transitional sleep stage. N2 showed intermediate values between N1 and N3/4, which fits the expected progression from light sleep to deeper sleep.
 

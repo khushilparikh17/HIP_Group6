@@ -195,7 +195,11 @@ The complete NeuroPype pipeline used for the analysis can be accessed here:
 [Download/open sleep.pyp](./sleep.pyp)
 
 
-Processed data workbook: sleep_stage_bandpower_cleaned_summary.xlsx
+### Band Power Summary Excel File
+
+The processed EEG band power summary workbook is available here:
+
+[Open/download the band power summary](./bandpower_summary.xlsx)
 
 ## 4.2 Visual Pipeline Graph
 

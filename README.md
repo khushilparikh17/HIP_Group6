@@ -130,10 +130,10 @@ artifacts propagating to the frontal electrode. The Pz-Oz channel showed
 substantially lower amplitude, as expected given its greater distance
 from the eyes.
 
-<img src="media/image1.png"
-style="width:6.5in;height:5.3875in" />
+<img width="754" height="625" alt="image1" src="https://github.com/user-attachments/assets/bf5392c1-1287-4c2c-a379-146d91112617" />
 
-Figure . Time Series Plot — **Before Filtering** (Raw EEG, Wake epoch,
+
+Figure 1. Time Series Plot — **Before Filtering** (Raw EEG, Wake epoch,
 SC4001, 51240–51300 s)
 
 ## 3.3 Bandpass Filtering
@@ -161,21 +161,22 @@ persisted in the filtered signal, as eye movement signals occupy the
 0.5–10 Hz frequency range — within the filter passband. Complete
 artifact removal would require Independent Component Analysis (ICA) or
 Artifact Subspace Reconstruction
-(ASR).<img src="media/image2.png"
-style="width:6.5in;height:5.37847in" />
 
-Figure . Time Series Plot — After Filtering (IIR 0.5–45 Hz, Wake epoch,
+<img width="751" height="621" alt="image2" src="https://github.com/user-attachments/assets/92c4c1f1-9fd0-4645-89dc-cb869ceaf10f" />
+
+
+Figure 2. Time Series Plot — After Filtering (IIR 0.5–45 Hz, Wake epoch,
 SC4001, 51240–51300 s)
 
-<img src="media/image3.png"
-style="width:4.75559in;height:3.93403in" />
+<img width="1051" height="870" alt="image3" src="https://github.com/user-attachments/assets/08ab1a64-79b5-43b7-938a-c3962714a286" />
 
-Figure . Power Spectral Density (PSD) Plot — Before Filtering
 
-<img src="media/image4.png"
-style="width:4.76157in;height:3.93542in" />
+Figure 3. Power Spectral Density (PSD) Plot — Before Filtering
 
-Figure . Power Spectral Density (PSD) Plot — After Filtering
+<img width="1061" height="876" alt="image4" src="https://github.com/user-attachments/assets/678f48c9-fc10-40a2-85e1-57b305117569" />
+
+
+Figure 4. Power Spectral Density (PSD) Plot — After Filtering
 
 # 4. NeuroPype Architecture Implementation
 
@@ -187,10 +188,10 @@ Processed data workbook: sleep_stage_bandpower_cleaned_summary.xlsx
 
 ## 4.2 Visual Pipeline Graph
 
-<img src="media/image5.png"
-style="width:6.5in;height:5.44097in" />
+<img width="488" height="409" alt="image5" src="https://github.com/user-attachments/assets/deaeaf47-9c42-46c5-834b-74ea80313868" />
 
-*Figure 4.1. NeuroPype EEG band power pipeline overview.*
+
+*Figure 5. NeuroPype EEG band power pipeline overview.*
 
 ## 4.3 Pipeline Architecture & Workflow
 
@@ -275,10 +276,10 @@ From the group-level comparison, a clear trend was observed:
 - REM and Wake showed relatively higher high-frequency components
 compared with lighter NREM stages.
 
-<img src="media/image6.png"
-style="width:6.2in;height:6.30467in" />
+<img width="2014" height="2048" alt="image6" src="https://github.com/user-attachments/assets/4d76d834-b55f-41cf-b0e8-fd60817d5651" />
 
-*Figure 6.2. Individual subject band power results across sleep stages.*
+
+*Figure 6. Individual subject band power results across sleep stages.*
 
 ## 6.2 Differences Between Fpz-Cz and Pz-Oz Channels
 
@@ -287,9 +288,8 @@ channels across W, N1, N2, N3/4, and REM. The comparison was organized
 by frequency band to show how spatial channel selection influences
 spectral power distribution.
 
-<img src="media/image7.png"
-style="width:6.5in;height:3.59583in"
-alt="A graph of different colored bars AI-generated content may be incorrect." />
+<img width="2704" height="1497" alt="image7" src="https://github.com/user-attachments/assets/390073e8-1562-4d04-abb0-0cc06866151f" />
+
 
 Fpz-Cz showed strong delta activity during N3/4 and remained useful for
 interpreting slow-wave activity and sleep depth. Pz-Oz showed stronger
@@ -359,9 +359,8 @@ the brain is active but disconnected from external sensory input.
 The strongest channel-dependent difference was alpha power. Pz-Oz alpha
 was higher than Fpz-Cz alpha in every stage.
 
-<img src="media/image8.png"
-style="width:6.5in;height:4.0625in"
-alt="A group of blue and pink bars AI-generated content may be incorrect." />
+<img width="2704" height="1691" alt="image8" src="https://github.com/user-attachments/assets/b4565fbe-e99a-4d24-a0be-832ad40bd4eb" />
+
 
 This finding supports the interpretation that Pz-Oz is more sensitive to
 posterior alpha rhythm, particularly during wakefulness and the light

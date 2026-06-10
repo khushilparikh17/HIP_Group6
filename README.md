@@ -182,7 +182,18 @@ Figure 4. Power Spectral Density (PSD) Plot — After Filtering
 
 ## 4.1 Pipeline & Dataset Repository
 
-Pipeline file: sleep.pyp
+### Demo Video
+
+A short demonstration video of the NeuroPype pipeline is available here:
+
+[Watch the pipeline demo](./Demo.mp4)
+
+### NeuroPype Pipeline File
+
+The complete NeuroPype pipeline used for the analysis can be accessed here:
+
+[Download/open sleep.pyp](./sleep.pyp)
+
 
 Processed data workbook: sleep_stage_bandpower_cleaned_summary.xlsx
 

@@ -167,7 +167,7 @@ Artifact Subspace Reconstruction
 <img width="751" height="621" alt="image2" src="https://github.com/user-attachments/assets/92c4c1f1-9fd0-4645-89dc-cb869ceaf10f" />
 
 
-Figure 2. Time Series Plot — After Filtering (IIR 0.5–45 Hz, Wake epoch,
+Figure 2. Time Series Plot — **After** Filtering (IIR 0.5–45 Hz, Wake epoch,
 SC4001, 51240–51300 s)
 
 <img width="1051" height="870" alt="image3" src="https://github.com/user-attachments/assets/08ab1a64-79b5-43b7-938a-c3962714a286" />

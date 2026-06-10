@@ -1,4 +1,6 @@
 # Human Information Processing
+## Group 6
+鍾明諦（114034702), 褚軒麟 (114034803), Khushil Parikh (X1145048)
 
 **EEG Sleep Signal Analysis**
 

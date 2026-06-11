@@ -203,6 +203,19 @@ The processed EEG band power summary workbook is available here:
 
 [Open/download the band power summary](./bandpower_summary.xlsx)
 
+
+### Dataset Package and Usage Guide
+
+Due to the large size of the EDF dataset files, the complete dataset package is stored externally in cloud storage instead of being uploaded directly to this GitHub repository.
+
+The cloud folder includes the PSG EDF files, hypnogram EDF files, marker CSV files, and extracted result CSV files used in this project.
+
+[Download the dataset package from cloud storage](./https://drive.google.com/drive/folders/1R_bP3YCNo7RExukoiK4nleATQyFBHdSC?usp=sharing)
+
+The dataset usage guide provides instructions for loading PSG and hypnogram EDF files, exporting marker CSV files, selecting sleep-stage start positions, organizing result folders by EEG channel, and following the CSV naming convention.
+
+[Open the dataset usage guide](./DATASET_USAGE_GUIDE.md)
+
 ## 4.2 Visual Pipeline Graph
 
 <img width="488" height="409" alt="image5" src="https://github.com/user-attachments/assets/deaeaf47-9c42-46c5-834b-74ea80313868" />

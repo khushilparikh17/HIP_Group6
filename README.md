@@ -188,7 +188,7 @@ Figure 4. Power Spectral Density (PSD) Plot — After Filtering
 
 A short demonstration video of the NeuroPype pipeline is available here:
 
-[Watch the pipeline demo](./Demo.mp4)
+[Download the pipeline demo video](./Demo.mp4)
 
 ### NeuroPype Pipeline File
 
